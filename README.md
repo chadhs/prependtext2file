@@ -10,10 +10,10 @@
 - edit the keyword input to your liking
 - edit the embedded bash script line that defines your target text file to append to (NO RELATIVE PATHS); look for this section:
 
-#############################
-## SET YOUR TEXT FILE HERE ##
-#############################
-original="/Users/username/Dropbox/yourfile.txt"
+	#############################
+	## SET YOUR TEXT FILE HERE ##
+	#############################
+	original="/Users/username/Dropbox/yourfile.txt"
 
 ### Optional Notification Support
 
@@ -25,8 +25,9 @@ original="/Users/username/Dropbox/yourfile.txt"
 - after your keyword type the exact text you want to append to your file
 - press enter to append
 
-## Protips
+## Pro Tips
 
 - install the plugin more than once and choose a different keyword to create shortcuts to append to multiple files
+- change the name of the workflow AND the keyword title for each file you install it for
 
 example keywords:  ppideas ppprojects ppblog
