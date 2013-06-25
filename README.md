@@ -8,7 +8,7 @@
 
 - double click the workflow file to install
 - edit the keyword input to your liking
-- edit the embedded bash script line that defines your target text file to append to (NO RELATIVE PATHS); look for this section:
+- edit the embedded bash script line that defines your target text file to prepend to (NO RELATIVE PATHS); look for this section:
 
 	#############################
 	## SET YOUR TEXT FILE HERE ##
@@ -22,12 +22,12 @@
 ## Usage
 
 - activate alfred and type in your keyword
-- after your keyword type the exact text you want to append to your file
-- press enter to append
+- after your keyword type the exact text you want to prepend to your file
+- press enter to prepend
 
 ## Pro Tips
 
-- install the plugin more than once and choose a different keyword to create shortcuts to append to multiple files
+- install the plugin more than once and choose a different keyword to create shortcuts to prepend to multiple files
 - change the name of the workflow AND the keyword title for each file you install it for
 
 example keywords:  ppideas ppprojects ppblog
