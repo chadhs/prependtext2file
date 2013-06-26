@@ -3,7 +3,7 @@
 ## Alfred 2 workflow for prepending text to a file
 
 ## Contact
-Script & terrible placeholder icon by:
+Script & terrible placeholder icon by:  
 Chad Stovern  
 <chadhs@digitalnomad.im>  
 <http://www.digitalnomad.im>
