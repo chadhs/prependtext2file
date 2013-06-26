@@ -1,8 +1,12 @@
 # PrependText2File
+
 ## Alfred 2 workflow for prepending text to a file
 
-## Contact: chadhs@digitalnomad.im
-## Credits: script & terrible placeholder icon by Chad Stovern
+## Contact
+Script & terrible placeholder icon by:
+Chad Stovern  
+<chadhs@digitalnomad.im>  
+<http://www.digitalnomad.im>
 
 ## Installation Instructions
 
