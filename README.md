@@ -8,6 +8,12 @@ Chad Stovern
 <chadhs@digitalnomad.im>  
 <http://www.digitalnomad.im>
 
+## Script Logic
+- Creates a to the second timestamped backup under /tmp
+- Verifies the backup is good via md5 matching before proceeding
+- Overwrites the original file with the input you provide
+- Appends the contents of the backup to the original — thus giving you prepend behavior!  =)
+
 ## Installation Instructions
 
 - double click the workflow file to install
