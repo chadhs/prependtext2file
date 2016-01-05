@@ -5,7 +5,7 @@
 ## Contact
 Script & terrible placeholder icon by:  
 Chad Stovern  
-<chadhs@digitalnomad.im>  
+<help@chadstovern.com>  
 <http://www.digitalnomad.im>
 
 ## Script Logic
